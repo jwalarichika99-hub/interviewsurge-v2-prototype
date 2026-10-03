@@ -5,3 +5,5 @@ Clickable redesign of the InterviewSurge dashboard: Home, Job matches, Instant C
 Live: https://interviewsurge-v2-prototype.vercel.app
 
 It's a single static page (`index.html`) with sample data only. Nothing you type is saved or sent. Every push to `main` deploys to Vercel.
+
+Source: https://github.com/jwalarichika99-hub/interviewsurge-v2-prototype
